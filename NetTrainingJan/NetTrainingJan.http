@@ -1,0 +1,6 @@
+@NetTrainingJan_HostAddress = http://localhost:5244
+
+GET {{NetTrainingJan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
